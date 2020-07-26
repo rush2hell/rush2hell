@@ -1,6 +1,5 @@
 ### Hi there welcome to my profile👋
 
-[![HitCount](http://hits.dwyl.com/rush2hell/rush2hell.svg)](http://hits.dwyl.com/rush2hell/rush2hell)
 
 Here are some ideas to get you started:
 
